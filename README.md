@@ -14,3 +14,4 @@ clicker with super simple backend, web configs, etc
 
 # credits
 i found a randomization by some person called @ProdByPengu, pretty sure they are a simp
+oh yea and @amplitudes is a simp
