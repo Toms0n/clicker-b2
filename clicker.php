@@ -5,10 +5,6 @@ error_reporting(0);
 $query = parse_url($_SERVER["REQUEST_URI"], PHP_URL_QUERY);
 parse_str($query, $parsed_query);
 
-// arguments whatever
-$save = $parsed_query['save'];  
-$load = $parsed_query['load'];
-
 function random_string($n)
 {
     $characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
